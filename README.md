@@ -1,2 +1,8 @@
 # playlist
 SISTEMA DE PLAYLIST EM DJANGO3 COM SERIALIZER 
+
+CLONE O REPOSITÓRIO
+ E ACOMPANHE A VIDEO AULA
+
+Obrigado a todos espero que goste!!
+

@@ -1,0 +1,30 @@
+/*	Media 768Px Start */
+@media (min-width: 768px) and (max-width: 990px) {
+
+	/* Banner */
+	.music-banner-caption { display: none; }
+	.music-player-thumb,.music-banner-player .jp-audio { width: 100%; }
+	.music-playlist-btn { top: -24%; left: 50%; } .music-banner-player { height: auto; }
+
+}
+
+/* Media 420Px Start */
+@media (max-width: 767px) {
+
+	.music-banner-caption { display: none; }
+	.music-player-thumb,.music-banner-player .jp-audio,.music-banner-player .jp-controls,.music-player-wrap,.jp-volume-controls,.jp-playlist { width: 100%; }
+	.music-banner-player { height: auto; }
+	.music-banner-player .jp-controls { text-align: center; padding: 30px 0px 0px 0px; } .music-banner-player .jp-volume-controls { padding: 20px 0px 20px 0px; }
+	.music-playlist-btn { bottom: -30px; left: 50%; top: auto; z-index: 8; }
+	div.jp-type-playlist div.jp-playlist a.jp-playlist-item { font-size: 12px; }
+}
+
+/* Media 300Px Start */
+@media (max-width: 480px) {
+
+}
+
+/* Media 940Px Start */
+@media screen and (min-width: 991px) and (max-width: 1054px) {
+
+}
